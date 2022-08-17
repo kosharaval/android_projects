@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txtWelcome">Welcome</string>
+    <string name="edtxtUser"> Enter User Name</string>
+    <string name="edtxtPass"> Enter Password</string>
+    <string name="btnLogin">LOGIN</string>
+    <string name="txtNewUser">New User? Please Register</string>
+
+    <string name="btnReg">REGISTER</string>
+    <string name="txtPersD">Personal Details</string>
+    <string name="edtxtName"> Enter First Name</string>
+    <string name="edtxtLstName">Enter Last Name</string>
+    <string name="edtxtEmail"> Enter Email</string>
+    <string name="btnRegSub">Submit</string>
+    <string name="edtxtPhno"> Enter Phone Number</string>
+    <string name="rdFem">Female</string>
+    <string name="rdMale">Male</string>
+    <string name="rdOther">Other</string>
+    <string name="edtxtRegPass"> Enter Password</string>
+    <string name="edtxtConPass"> Confirm Password</string>
+    <string name="txtImgSplash">Welcome to Budgy !!</string>
+<!--    <string name="btnGetReports">Get Reports</string>-->
+    <string name="imgDescLogin">LoginBudgy</string>
+
+    <string name="txtlink"></string>
+
+</resources>

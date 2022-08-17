@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Card View</string>
+    <string name="content1_Title">Learning JAVA 9 by Building Android Games</string>
+    <string name="content2_Title">Beginning C++ Game Programming</string>
+    <string name="content3_Title">Android Game Programming BY Example</string>
+
+    <string name="content1_Desc">Learning JAVA 9 by creating fun filled games for Android</string>
+    <string name="content2_Desc">Learning C++ from scratch and get started building your very own games</string>
+    <string name="content3_Desc">Harness the power of the Android SDK by building three immersive and captivating games</string>
+
+    <string name="buyTextView">BUY NOW</string>
+
+    <string name="imageDesc">Book Cover</string>
+</resources>

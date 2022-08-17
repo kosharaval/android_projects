@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ViewDemo</string>
+    <string name="textMessage">Welcome to View Demo</string>
+    <string name="imageDescription">View Demo Image</string>
+    <string name="btnToggleText">Show Text</string>
+    <string name="btnShowText">Show Both</string>
+</resources>

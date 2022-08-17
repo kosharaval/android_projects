@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">PocketBook</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Dashboard</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_reports">Reports</string>
+
+    <!-- Dashboard Main -->
+    <string name="txtBudget">BUDGET</string>
+    <string name="txtSpend">EXPENSE</string>
+    <string name="txtSaving">SAVINGS</string>
+    <string name="txtIncome">INCOME</string>
+    <string name="txtDaily">Todays Proceedings</string>
+    <string name="txtWeek">Last 7 Days Proceedings</string>
+
+    <!-- Add Category Dialog -->
+    <string name="btnAdd">Add Category</string>
+    <string name="hintCategoryName">Category Name</string>
+    <string name="hintCategoryAmount">Amount</string>
+    <string name="deleteImg">Delete Button</string>
+    <string name="hintAmount">Amount</string>
+    <string name="hintDate">Pick a Date</string>
+    <string name="btnUploadReceipt">Upload Receipt</string>
+    <string name="hintTitle">Title</string>
+
+    <!-- Weekly Transaction View -->
+    <string name="imgReceipt">Receipt Image</string>
+
+    <!-- Profile Fragment -->
+    <!-- Categories -->
+    <string name="basicCategory">Basic</string>
+    <string name="budgetCategory">Budget</string>
+    <string name="expenseCategories">Expense Categories</string>
+
+    <!-- Titles -->
+    <string name="usernameTitle">Email</string>
+    <string name="passwordTitle">Password</string>
+    <string name="phoneTitle">Phone</string>
+    <string name="budgetTitle">Month</string>
+
+    <!-- Add Budget Dialog -->
+    <string name="txtAddBudget">Enter Budget Amount</string>
+    <string name="amountHint">amount</string>
+
+    <!-- Add Category Dialog -->
+    <string name="txtAddCategory">Enter New Category</string>
+    <string name="categoryHint">category name</string>
+
+    <string name="edtxtUser"> Enter User Name</string>
+    <string name="edtxtPass"> Enter Password</string>
+    <string name="btnLogin">LOGIN</string>
+    <string name="txtNewUser">New User? Please Register</string>
+
+    <!-- Login Activity -->
+    <string name="btnReg">REGISTER</string>
+    <string name="txtPersD">Personal Details</string>
+    <string name="edtxtName"> Enter First Name</string>
+    <string name="edtxtLstName">Enter Last Name</string>
+    <string name="edtxtEmail"> Enter Email</string>
+    <string name="btnRegSub">Submit</string>
+    <string name="edtxtPhno"> Enter Phone Number</string>
+    <string name="edtxtRegPass"> Enter Password</string>
+    <string name="edtxtConPass"> Confirm Password</string>
+    <string name="txtWelcome">Welcome to Pocket Book !!</string>
+    <string name="imgDescLogin">Login</string>
+
+    
+</resources>

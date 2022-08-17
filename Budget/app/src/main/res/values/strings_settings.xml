@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Categories -->
+    <string name="basicCategory">Basic</string>
+    <string name="budgetCategory">Budget</string>
+    <string name="expenseCategories">Expense Categories</string>
+
+    <!-- Titles -->
+    <string name="usernameTitle">Email</string>
+    <string name="passwordTitle">Password</string>
+    <string name="phoneTitle">Phone</string>
+    <string name="budgetTitle">Month</string>
+
+    <!-- Add Budget Dialog -->
+    <string name="txtAddBudget">Enter Budget Amount</string>
+    <string name="amountHint">amount</string>
+
+    <!-- Add Category Dialog -->
+    <string name="txtAddCategory">Enter New Category</string>
+    <string name="categoryHint">category name</string>
+
+</resources>

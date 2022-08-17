@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@drawable/background">
+
+    <ImageView
+        android:id="@+id/imageViewTop"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/top" />
+
+    <RadioGroup
+        android:id="@+id/radioGroupPatty"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageViewTop">
+
+        <RadioButton
+            android:id="@+id/radioButtonBeefPatty"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="@string/rbBeef"
+            android:onClick="onRadioGroupPattyClicked"/>
+
+        <RadioButton
+            android:id="@+id/radioButtonLambPatty"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="@string/rbLamb"
+            android:onClick="onRadioGroupPattyClicked"/>
+
+        <RadioButton
+            android:id="@+id/radioButtonOstrichPatty"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="@string/rbOstrich"
+            android:onClick="onRadioGroupPattyClicked"/>
+    </RadioGroup>
+
+    <CheckBox
+        android:id="@+id/checkBoxProsciutto"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:text="@string/cbProsciutto"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/radioGroupPatty" />
+
+    <RadioGroup
+        android:id="@+id/radioGroupCheese"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/checkBoxProsciutto">
+
+        <RadioButton
+            android:id="@+id/radioButtonAsiagoCheese"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="@string/rbAsiago"
+            android:onClick="onRadioGroupCheeseClicked"/>
+
+        <RadioButton
+            android:id="@+id/radioButtonCremeFriche"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="@string/rbCreme"
+            android:onClick="onRadioGroupCheeseClicked"/>
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/textViewSeekBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/textSeekBar"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/radioGroupCheese" />
+
+    <SeekBar
+        android:id="@+id/seekBarCaviarSauce"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewSeekBar"
+        android:max="100"
+        android:min="1"/>
+
+    <ImageView
+        android:id="@+id/imageViewBottom"
+        android:layout_width="wrap_content"
+        android:layout_height="175dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/seekBarCaviarSauce"
+        app:srcCompat="@drawable/bottom" />
+
+    <TextView
+        android:id="@+id/textViewOutput"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageViewBottom" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

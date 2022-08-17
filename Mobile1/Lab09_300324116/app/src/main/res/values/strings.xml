@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">The Dog Sledding</string>
+    <string name="imgSled">Sled Image</string>
+    <string name="txtTitle">The Dog Sledding Experience in Alaska</string>
+    <string name="txtDescription">You are speeding through Alaska forest near Denail sitting on a sled that is being pulled by some of the most powerful Alaskan Creatures. This is dog sledging and mushing is not only an Alaska tradition but also a State Obsession</string>
+    <string name="btnDate">Pick a date for your Sledding Experience</string>
+</resources>

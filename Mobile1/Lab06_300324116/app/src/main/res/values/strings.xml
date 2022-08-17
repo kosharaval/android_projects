@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab06_300324116</string>
+    <string name="btnCows">Listen to the COWS</string>
+    <string name="btnPig">Listen to the PIGS</string>
+    <string name="cows">Cows Image</string>
+    <string name="pigs">Pigs Image</string>
+    <string name="farm">Farm Image</string>
+    <string name="txtSplash">Aminal Voices</string>
+</resources>

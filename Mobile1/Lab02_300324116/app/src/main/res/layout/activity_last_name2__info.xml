@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".lastName2_Info">
+
+    <TextView
+        android:id="@+id/txtAddress2"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/address2"
+        android:textSize="24sp"
+        app:layout_constraintStart_toEndOf="@+id/txtTagAddress2"
+        app:layout_constraintTop_toBottomOf="@+id/txtLName2" />
+
+    <TextView
+        android:id="@+id/txtFName2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="32dp"
+        android:text="@string/firstName2"
+        android:textSize="24sp"
+        app:layout_constraintStart_toEndOf="@+id/txtTagFName2"
+        app:layout_constraintTop_toBottomOf="@+id/imgContact2" />
+
+    <TextView
+        android:id="@+id/txtPhone2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/phoneNo2"
+        android:textSize="24sp"
+        app:layout_constraintStart_toEndOf="@+id/txtTagPhone2"
+        app:layout_constraintTop_toBottomOf="@+id/txtAddress2" />
+
+    <TextView
+        android:id="@+id/txtLName2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/lastName2"
+        android:textSize="24sp"
+        app:layout_constraintStart_toEndOf="@+id/txtTagLName2"
+        app:layout_constraintTop_toBottomOf="@+id/txtFName2" />
+
+    <TextView
+        android:id="@+id/txtTagFName2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="32dp"
+        android:text="@string/tagFirstName"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imgContact2" />
+
+    <TextView
+        android:id="@+id/txtTagLName2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/tagLastName"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtTagFName2" />
+
+    <TextView
+        android:id="@+id/txtTagAddress2"
+        android:layout_width="115dp"
+        android:layout_height="35dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/tagAddress"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtTagLName2" />
+
+    <TextView
+        android:id="@+id/txtTagPhone2"
+        android:layout_width="117dp"
+        android:layout_height="34dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/tagPhone"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtTagAddress2" />
+
+    <ImageView
+        android:id="@+id/imgContact2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="44dp"
+        android:contentDescription="@string/imgDescription2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/michaeljackson" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

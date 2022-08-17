@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tabs Recycler Demo</string>
+    <string name="Title">Tabs and Recycler View</string>
+    <string name="textAllTunes">All Tunes</string>
+    <string name="textMovieTunes">Movie Tunes</string>
+    <string name="textTvShowTunes">TV Show Tunes</string>
+</resources>

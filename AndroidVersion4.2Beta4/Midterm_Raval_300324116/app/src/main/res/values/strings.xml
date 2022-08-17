@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Midterm_Raval_300324116</string>
+    <!--Main Activity Strings    -->
+    <string name="imageDescription">Logo</string>
+    <string name="title">Enter car purchase information</string>
+    <string name="price_label">What is the price of you car?</string>
+    <string name="payment_label">What is your car down payment?</string>
+    <string name="radioOne">2 years</string>
+    <string name="radioTwo">3 years</string>
+    <string name="radioThree">4 years</string>
+    <string name="radioDescription">Choose your loan term</string>
+    <string name="btnText">LOAN Report</string>
+
+    <!--    Second Activity Strings -->
+    <string name="title2">Your Loan Summary</string>
+    <string name="btnText2">RETRUN TO DATA ENTRY</string>
+</resources>

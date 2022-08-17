@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lab03_300324116</string>
+    <string name="appTitle">Paint Selector</string>
+    <string name="txtHeight">Height of room</string>
+    <string name="txtLength">Length of room</string>
+    <string name="btnCalculate">Calculate</string>
+    <string name="description">Color Spectrum</string>
+    <string-array name="txtColor">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+        <item>White</item>
+    </string-array>
+    <string name="promt">Select Paint</string>
+</resources>

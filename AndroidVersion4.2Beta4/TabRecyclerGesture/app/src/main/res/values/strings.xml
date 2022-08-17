@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TabRecyclerGesture</string>
+    <string name="title">Tab-Recycler-Gesture Demo</string>
+    <string name="tabOne">Start</string>
+    <string name="tabTwo">Middle</string>
+    <string name="tabThree">End</string>
+</resources>

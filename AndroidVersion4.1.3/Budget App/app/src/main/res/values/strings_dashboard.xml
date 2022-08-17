@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dashboard Main -->
+    <string name="txtBudget">BUDGET</string>
+    <string name="txtSpend">EXPENSE</string>
+    <string name="txtSaving">SAVINGS</string>
+    <string name="txtIncome">INCOME</string>
+    <string name="txtDaily">Todays Proceedings</string>
+    <string name="txtWeek">Last 7 Days Proceedings</string>
+
+    <!-- Add Category Dialog -->
+    <string name="btnAdd">Add Category</string>
+    <string name="hintCategoryName">Category Name</string>
+    <string name="hintCategoryAmount">Amount</string>
+    <string name="deleteImg">Delete Button</string>
+    <string name="hintAmount">Amount</string>
+    <string name="hintDate">Pick a Date</string>
+    <string name="btnUploadReceipt">Upload Receipt</string>
+    <string name="hintTitle">Title</string>
+
+    <!-- Weekly Transaction View -->
+    <string name="imgReceipt">Receipt Image</string>
+
+</resources>

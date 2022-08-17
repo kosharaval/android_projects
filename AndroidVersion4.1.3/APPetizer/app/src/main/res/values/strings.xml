@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">APPetizer</string>
+    <string name="login">Log In</string>
+    <string name="signup">Sign Up</string>
+    <string name="name">First Last Name</string>
+    <string name="address">Address</string>
+    <string name="zipcode">Zip Code</string>
+    <string name="phone">Phone Number</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="total">Total</string>
+    <string name="tax">GST</string>
+    <string name="fee">Delivery Fee</string>
+    <string name="method">Payment Method</string>
+    <string name="cc">Credit Card</string>
+    <string name="dc">Debit Card</string>
+    <string name="cash">Cash</string>
+    <string name="place">Place Order</string>
+    <string name="addtoorder">Add to Order</string>
+    <string name="checkout">Check Out</string>
+    <string name="restlist">Restaurants List</string>
+    <string name="history">Order History</string>
+    <string name="account">Your Account</string>
+    <string name="delivery">Delivery</string>
+    <string name="pickup">Pick Up</string>
+    <string name="logout">Logout</string>
+    <string name="edit">Edit Account</string>
+    <string name="special">Add food restrictions and special requests here</string>
+    <string name="qty">Quantity</string>
+    <string name="invite">Invite a Friend</string>
+    <string name="discount">Invite a friend and get 10% discount</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

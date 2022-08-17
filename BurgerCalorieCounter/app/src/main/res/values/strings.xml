@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BurgerCalorieCounter</string>
+    <string name="rbBeef">Beef Patty</string>
+    <string name="rbLamb">Lamb Patty</string>
+    <string name="rbOstrich">Ostrich Patty</string>
+    <string name="cbProsciutto">Prosciutto</string>
+    <string name="rbAsiago">Asiago Cheese</string>
+    <string name="rbCreme">Creme Fraiche</string>
+    <string name="textSeekBar">Caviar sauce up to one teaspoon:</string>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PT_300324116</string>
+    <string name="buttonDisplayAll">Display All</string>
+    <string name="buttonSearch">Search</string>
+    <string name="textViewBookTitleLabel">Book Title:</string>
+    <string name="textViewAuthorLabel">Author</string>
+    <string name="textViewRatingLabel">Rating</string>
+    <string name="textViewPriceLabel">Price</string>
+    <string name="textViewGenreLabel">Genre</string>
+    <string name="textViewYearLabel">Year</string>
+    <string name="textViewDeatilTitle">Book Details</string>
+</resources>

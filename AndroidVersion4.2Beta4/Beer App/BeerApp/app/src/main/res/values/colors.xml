@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorFlash">#323232</color>
+
+    <!-- Components -->
+    <color name="colorBtnSearch">#ff0066</color>
+    <color name="colorBtnControl">#006600</color>
+
+    <!-- Beer color -->
+    <color name="colorBeerId">#009900</color>
+    <color name="colorBeerName">#0066ff</color>
+    <color name="colorBeerTag">#ff6699</color>
+    <color name="colorBeerDescription">#666666</color>
+    <color name="colorBeerFirstBrew">#9900e6</color>
+    <color name="colorFoodLabel">#ff6600</color>
+    <color name="colorFoodList">#666699</color>
+</resources>

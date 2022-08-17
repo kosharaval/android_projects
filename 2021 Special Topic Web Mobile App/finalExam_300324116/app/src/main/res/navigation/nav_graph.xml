@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/fragmentMain300324116">
+
+    <fragment
+        android:id="@+id/fragmentMain300324116"
+        android:name="com.example.finalexam_300324116.fragmentMain300324116"
+        android:label="fragment_main300324116_fragment"
+        tools:layout="@layout/fragment_main300324116_fragment" >
+        <action
+            android:id="@+id/action_fragmentMain300324116_to_fragmentSearchAirbnb300324116"
+            app:destination="@id/fragmentSearchAirbnb300324116" />
+        <action
+            android:id="@+id/action_fragmentMain300324116_to_fragmentRegistration300324116"
+            app:destination="@id/fragmentRegistration300324116" />
+        <action
+            android:id="@+id/action_fragmentMain300324116_to_fragmentViewBookings3003241162"
+            app:destination="@id/fragmentViewBookings300324116" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragmentSearchAirbnb300324116"
+        android:name="com.example.finalexam_300324116.fragmentSearchAirbnb300324116"
+        android:label="fragment_search_airbnb300324116_fragment"
+        tools:layout="@layout/fragment_search_airbnb300324116_fragment" >
+        <action
+            android:id="@+id/action_fragmentSearchAirbnb300324116_to_fragmentMain300324116"
+            app:destination="@id/fragmentMain300324116" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragmentViewBookings300324116"
+        android:name="com.example.finalexam_300324116.fragmentViewBookings300324116"
+        android:label="fragment_view_bookings300324116_fragment"
+        tools:layout="@layout/fragment_view_bookings300324116_fragment" >
+        <action
+            android:id="@+id/action_fragmentViewBookings300324116_to_fragmentMain3003241162"
+            app:destination="@id/fragmentMain300324116" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragmentRegistration300324116"
+        android:name="com.example.finalexam_300324116.fragmentRegistration300324116"
+        android:label="fragment_registration300324116_fragment"
+        tools:layout="@layout/fragment_registration300324116_fragment" />
+</navigation>

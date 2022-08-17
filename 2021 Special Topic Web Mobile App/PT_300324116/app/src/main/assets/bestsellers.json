@@ -1,0 +1,209 @@
+[
+  {
+    "title": "A Dance with Dragons (A Song of Ice and Fire)",
+    "Author": "George R. R. Martin",
+    "User Rating": 4.4,
+    "Reviews": 12643,
+    "Price": 11,
+    "Year": 2011,
+    "Genre": "Fiction"
+  },
+  {
+    "title": "A Game of Thrones / A Clash of Kings / A Storm of Swords / A Feast of Crows / A Dance with Dragons",
+    "Author": "George R. R. Martin",
+    "User Rating": 4.7,
+    "Reviews": 19735,
+    "Price": 30,
+    "Year": 2014,
+    "Genre": "Fiction"
+  },
+  {
+    "title": "A Gentleman in Moscow: A Novel",
+    "Author": "Amor Towles",
+    "User Rating": 4.7,
+    "Reviews": 19699,
+    "Price": 15,
+    "Year": 2017,
+    "Genre": "Fiction"
+  },
+  {
+    "title": "A Higher Loyalty: Truth, Lies, and Leadership",
+    "Author": "James Comey",
+    "User Rating": 4.7,
+    "Reviews": 5983,
+    "Price": 3,
+    "Year": 2018,
+    "Genre": "Non Fiction"
+  },
+  {
+    "title": "A Patriot's History of the United States: From Columbus's Great Discovery to the War on Terror",
+    "Author": "Larry Schweikart",
+    "User Rating": 4.6,
+    "Reviews": 460,
+    "Price": 2,
+    "Year": 2010,
+    "Genre": "Non Fiction"
+  },
+  {
+    "title": "A Stolen Life: A Memoir",
+    "Author": "Jaycee Dugard",
+    "User Rating": 4.6,
+    "Reviews": 4149,
+    "Price": 32,
+    "Year": 2011,
+    "Genre": "Non Fiction"
+  },
+  {
+    "title": "Act Like a Lady, Think Like a Man: What Men Really Think About Love, Relationships, Intimacy, and Commitment",
+    "Author": "Steve Harvey",
+    "User Rating": 4.6,
+    "Reviews": 5013,
+    "Price": 17,
+    "Year": 2009,
+    "Genre": "Non Fiction"
+  },
+  {
+    "title": "Adult Coloring Book Designs: Stress Relief Coloring Book: Garden Designs, Mandalas, Animals, and Paisley Patterns",
+    "Author": "Adult Coloring Book Designs",
+    "User Rating": 4.5,
+    "Reviews": 2313,
+    "Price": 4,
+    "Year": 2016,
+    "Genre": "Non Fiction"
+  },
+  {
+    "title": "Becoming",
+    "Author": "Michelle Obama",
+    "User Rating": 4.8,
+    "Reviews": 61133,
+    "Price": 11,
+    "Year": 2019,
+    "Genre": "Non Fiction"
+  },
+  {
+    "title": "Being Mortal: Medicine and What Matters in the End",
+    "Author": "Atul Gawande",
+    "User Rating": 4.8,
+    "Reviews": 11113,
+    "Price": 15,
+    "Year": 2015,
+    "Genre": "Non Fiction"
+  },
+  {
+    "title": "Between the World and Me",
+    "Author": "Ta-Nehisi Coates",
+    "User Rating": 4.7,
+    "Reviews": 10070,
+    "Price": 13,
+    "Year": 2015,
+    "Genre": "Non Fiction"
+  },
+  {
+    "title": "Born to Run",
+    "Author": "Bruce Springsteen",
+    "User Rating": 4.7,
+    "Reviews": 3729,
+    "Price": 18,
+    "Year": 2016,
+    "Genre": "Non Fiction"
+  },
+  {
+    "title": "Cravings: Recipes for All the Food You Want to Eat: A Cookbook",
+    "Author": "Chrissy Teigen",
+    "User Rating": 4.7,
+    "Reviews": 4761,
+    "Price": 16,
+    "Year": 2016,
+    "Genre": "Non Fiction"
+  },
+  {
+    "title": "Crazy Love: Overwhelmed by a Relentless God",
+    "Author": "Francis Chan",
+    "User Rating": 4.7,
+    "Reviews": 1542,
+    "Price": 14,
+    "Year": 2009,
+    "Genre": "Non Fiction"
+  },
+  {
+    "title": "Decision Points",
+    "Author": "George W. Bush",
+    "User Rating": 4.6,
+    "Reviews": 2137,
+    "Price": 17,
+    "Year": 2010,
+    "Genre": "Non Fiction"
+  },
+  {
+    "title": "Delivering Happiness: A Path to Profits, Passion, and Purpose",
+    "Author": "Tony Hsieh",
+    "User Rating": 4.6,
+    "Reviews": 1651,
+    "Price": 15,
+    "Year": 2010,
+    "Genre": "Non Fiction"
+  },
+  {
+    "title": "Diagnostic and Statistical Manual of Mental Disorders, 5th Edition: DSM-5",
+    "Author": "American Psychiatric Association",
+    "User Rating": 4.5,
+    "Reviews": 6679,
+    "Price": 105,
+    "Year": 2013,
+    "Genre": "Non Fiction"
+  },
+  {
+    "title": "Educated: A Memoir",
+    "Author": "Tara Westover",
+    "User Rating": 4.7,
+    "Reviews": 28729,
+    "Price": 15,
+    "Year": 2019,
+    "Genre": "Non Fiction"
+  },
+  {
+    "title": "Knock-Knock Jokes for Kids",
+    "Author": "Rob Elliott",
+    "User Rating": 4.5,
+    "Reviews": 3673,
+    "Price": 4,
+    "Year": 2013,
+    "Genre": "Non Fiction"
+  },
+  {
+    "title": "The Alchemist",
+    "Author": "Paulo Coelho",
+    "User Rating": 4.7,
+    "Reviews": 35799,
+    "Price": 39,
+    "Year": 2014,
+    "Genre": "Fiction"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "Author": "Harper Lee",
+    "User Rating": 4.8,
+    "Reviews": 26234,
+    "Price": 0,
+    "Year": 2013,
+    "Genre": "Fiction"
+  },
+  {
+    "title": "Wonder",
+    "Author": "R. J. Palacio",
+    "User Rating": 4.8,
+    "Reviews": 21625,
+    "Price": 9,
+    "Year": 2016,
+    "Genre": "Fiction"
+  },
+  {
+    "title": "You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life",
+    "Author": "Jen Sincero",
+    "User Rating": 4.7,
+    "Reviews": 14331,
+    "Price": 8,
+    "Year": 2019,
+    "Genre": "Non Fiction"
+  }
+]

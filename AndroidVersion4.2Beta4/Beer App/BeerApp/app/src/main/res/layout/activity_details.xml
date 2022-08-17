@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.DetailsActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/detailsBeerImageView"
+                android:layout_width="wrap_content"
+                android:layout_height="300dp"
+                app:srcCompat="@mipmap/ic_launcher_round"
+                android:layout_gravity="center"
+                android:padding="20dp"/>
+            <TextView
+                android:id="@+id/detailsBeerIdTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="ID"
+                android:textSize="@dimen/TextTitle"
+                android:textStyle="bold"
+                android:padding="10dp"
+                android:textColor="@color/colorBeerId"
+                />
+            <TextView
+                android:id="@+id/detailsBeerNameTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Name"
+                android:textStyle="bold"
+                android:textSize="25dp"
+                android:padding="10dp"
+                android:textColor="@color/colorBeerName"/>
+            <TextView
+                android:id="@+id/detailsBeerTagTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Tag"
+                android:textStyle="bold"
+                android:textSize="17dp"
+                android:padding="10dp"
+                android:textColor="@color/colorBeerTag"/>
+            <TextView
+                android:id="@+id/detailsFirstBrewTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="end"
+                android:text="Brew Date"
+                android:textSize="17dp"
+                android:padding="10dp"
+                android:textColor="@color/colorBeerFirstBrew"/>
+            <TextView
+                android:id="@+id/detailsBeerDescriptionTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Description"
+                android:textSize="17dp"
+                android:padding="10dp"
+                android:textColor="@color/colorBeerDescription"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="start"
+                android:text="@string/foodPairText"
+                android:padding="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/colorFoodLabel"/>
+            <TextView
+                android:id="@+id/detailsBeerFoodTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="start"
+                android:text="Food list"
+                android:textSize="17dp"
+                android:padding="10dp"
+                android:textColor="@color/colorFoodList"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

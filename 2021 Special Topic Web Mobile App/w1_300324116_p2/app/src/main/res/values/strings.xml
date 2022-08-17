@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">w1_300324116_p2</string>
+    <string name="textviewLoanAmount">Loan Amount</string>
+    <string name="textviewNoOfYears">Number Of Years</string>
+    <string name="buttonCalculator">Calculate</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kosha Raval</string>
+    <string name="ButtonAdd">Add New Note</string>
+    <string name="textViewAddNoteLabel">Add New Note</string>
+    <string name="editTextNewNote">Enter your new note here</string>
+    <string name="buttonSave">Save Note</string>
+</resources>

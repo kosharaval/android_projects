@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">w4_300324116_p1</string>
+    <string name="buttonViewTranscation">View Transcation</string>
+    <string name="buttonSendMoney">Send Money</string>
+    <string name="buttonViewBalance">View Balance</string>
+    <string name="textViewBalance">$100</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">w3_300324116_p1</string>
+    <string name="textViewSortBy">Select sort by</string>
+    <string name="textViewFirstName">First Name</string>
+    <string name="textViewLastName">Last Name</string>
+    <string name="textViewCarModel">Car Model</string>
+    <string name="buttonSort">Sort</string>
+
+    <string-array name="sortSelection">
+        <item>--Select Please--</item>
+        <item>First Name</item>
+        <item>Last Name</item>
+        <item>Car Model</item>
+    </string-array>
+</resources>

@@ -1,0 +1,26 @@
+<resources>
+    <!-- Layout strings -->
+    <string name="app_name">Beer App</string>
+    <string name="searchText">Search</string>
+    <string name="searchHint">Enter a beer name</string>
+    <string name="foodPairText">Food pairing:</string>
+    <string name="prev">\u003C\u003C Prev</string>
+    <string name="next">Next \u003E\u003E</string>
+    <string name="signin">Sign in</string>
+    <string name="signout">Sign out</string>
+    <string name="signup">Sign up</string>
+    <string name="signupMessage">Don\'t have an account? Click here to sign up.</string>
+    <string name="favorite">Favorite</string>
+    <string name="staroff">Star off</string>
+    <string name="staron">Star on</string>
+
+    <!-- Alert Message -->
+    <string name="authenfail">Authentication failed.</string>
+    <string name="nouser">No user found.</string>
+    <string name="emailVerification">Verification email sent. Please check your email inbox</string>
+    <string name="signin_success">Signed in successfully.</string>
+    <string name="signout_success">Signed out successfully</string>
+    <string name="favorite_success_add">Added to favorite</string>
+    <string name="favorite_success_remove">Removed from favorite</string>
+    <string name="favorite_fail">Cannot add to favorite. Try again.</string>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Oasis Spa Tablet App</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="txtMassage">With our spa and massage services you are getting the relaxing touch off an expert. With an automatic pillow for your eyes a choice of aromatherapy oil and a huge pillow for your neck massage offerings will restore balance to mind and body.</string>
+    <string name="txtManicure">Our spa manicure and pedicure services soothe with a warm neck pillow.Skin exfoliation and a hydrating massage an extended to the elbow for manicures and to the need for pedicures which also include a customized foot bath with essential oils.</string>
+    <string name="imgDescription">Spa Services</string>
+    <string name="txtServices">Spa Services</string>
+    <string name="txtAddress">1268 Andrew Lane, Pond, OK 43277</string>
+    <string name="txtTitle">Oasis Spa</string>
+    <string name="txtWebsite">Full Web Site</string>
+    <string name="txtPhone">555-332-3366</string>
+    <string name="txtLabel1">Address</string>
+    <string name="txtLabe2">Phone</string>
+</resources>

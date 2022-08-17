@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent" android:layout_height="match_parent" tools:context=".UpdateStudentFragment" android:orientation="vertical">
+    <TextView
+        android:id="@+id/txvAddStudentTitle"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="30dp"
+        android:gravity="center"
+        android:text="UPDATE STUDENTS"
+        android:textSize="20sp" />
+    <Spinner
+        android:id="@+id/spinnerStudent"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="30dp" />
+    <EditText
+        android:id="@+id/etStudentName"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        android:ems="10"
+        android:hint="Student Name"
+        android:inputType="textPersonName" />
+    <EditText
+        android:id="@+id/etStudentMajor"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        android:ems="10"
+        android:hint="Student Major"
+        android:inputType="textPersonName" />
+    <Button
+        android:id="@+id/buttonUpdateStudent"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        android:text="UPDATE" />
+
+
+</LinearLayout>

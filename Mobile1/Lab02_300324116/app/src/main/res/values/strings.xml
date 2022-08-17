@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lab02_300324116</string>
+    <string name="lastName1">Jackman</string>
+    <string name="lastName2">Jackson</string>
+    <string name="firstName1">Hugh</string>
+    <string name="firstName2">Michael</string>
+    <string name="address1">Sydney, Australia</string>
+    <string name="address2">Indiana, United States</string>
+    <string name="phoneNo1">+1(635)-732-3219</string>
+    <string name="phoneNo2">+1(667)-562-8378</string>
+    <string name="appTitle">Contacts</string>
+    <string name="tagFirstName">First Name</string>
+    <string name="tagLastName">Last Name</string>
+    <string name="tagAddress">Address</string>
+    <string name="tagPhone">Phone</string>
+    <string name="imgDescription1">Hugh Jackman</string>
+    <string name="imgDescription2">Michael Jackson</string>
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/fragmentMain300324116">
+
+    <fragment
+        android:id="@+id/fragmentMain300324116"
+        android:name="com.example.midterm_300324116.fragmentMain300324116"
+        android:label="fragment_main300324116_fragment"
+        tools:layout="@layout/fragment_main300324116_fragment" >
+        <action
+            android:id="@+id/action_fragmentMain300324116_to_fragmentRegistration300324116"
+            app:destination="@id/fragmentRegistration300324116" />
+        <action
+            android:id="@+id/action_fragmentMain300324116_to_fragmentLogin300324116"
+            app:destination="@id/fragmentLogin300324116" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragmentJobPosting300324116Fragment"
+        android:name="com.example.midterm_300324116.fragmentJobPosting300324116Fragment"
+        android:label="fragment_job_posting300324116_fragment"
+        tools:layout="@layout/fragment_job_posting300324116_fragment" />
+    <fragment
+        android:id="@+id/fragmentRegistration300324116"
+        android:name="com.example.midterm_300324116.fragmentRegistration300324116"
+        android:label="fragment_registration300324116_fragment"
+        tools:layout="@layout/fragment_registration300324116_fragment" >
+        <action
+            android:id="@+id/action_fragmentRegistration300324116_to_fragmentMain300324116"
+            app:destination="@id/fragmentMain300324116" />
+        <action
+            android:id="@+id/action_fragmentRegistration300324116_to_fragmentLogin300324116"
+            app:destination="@id/fragmentLogin300324116" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragmentLogin300324116"
+        android:name="com.example.midterm_300324116.fragmentLogin300324116"
+        android:label="fragment_login300324116_fragment"
+        tools:layout="@layout/fragment_login300324116_fragment" >
+        <action
+            android:id="@+id/action_fragmentLogin300324116_to_fragmentJobPosting300324116Fragment"
+            app:destination="@id/fragmentJobPosting300324116Fragment" />
+        <action
+            android:id="@+id/action_fragmentLogin300324116_to_fragmentMain300324116"
+            app:destination="@id/fragmentMain300324116" />
+    </fragment>
+</navigation>

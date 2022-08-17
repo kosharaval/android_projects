@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".lastName1_Info">
+
+    <TextView
+        android:id="@+id/txtPhone1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/phoneNo1"
+        android:textSize="24sp"
+        app:layout_constraintStart_toEndOf="@+id/txtTagPhone1"
+        app:layout_constraintTop_toBottomOf="@+id/txtAddress1" />
+
+    <TextView
+        android:id="@+id/txtTagFname1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="32dp"
+        android:text="@string/tagFirstName"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imgContact1" />
+
+    <TextView
+        android:id="@+id/txtTagLName1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/tagLastName"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtTagFname1" />
+
+    <TextView
+        android:id="@+id/txtTagAddress1"
+        android:layout_width="115dp"
+        android:layout_height="35dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/tagAddress"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtTagLName1" />
+
+    <TextView
+        android:id="@+id/txtTagPhone1"
+        android:layout_width="117dp"
+        android:layout_height="34dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/tagPhone"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtTagAddress1" />
+
+    <TextView
+        android:id="@+id/txtFName1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="32dp"
+        android:text="@string/firstName1"
+        android:textSize="24sp"
+        app:layout_constraintStart_toEndOf="@+id/txtTagFname1"
+        app:layout_constraintTop_toBottomOf="@+id/imgContact1" />
+
+    <TextView
+        android:id="@+id/txtLName1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/lastName1"
+        android:textSize="24sp"
+        app:layout_constraintStart_toEndOf="@+id/txtTagLName1"
+        app:layout_constraintTop_toBottomOf="@+id/txtFName1" />
+
+    <TextView
+        android:id="@+id/txtAddress1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/address1"
+        android:textSize="24sp"
+        app:layout_constraintStart_toEndOf="@+id/txtTagAddress1"
+        app:layout_constraintTop_toBottomOf="@+id/txtLName1" />
+
+    <ImageView
+        android:id="@+id/imgContact1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="44dp"
+        android:contentDescription="@string/imgDescription1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/hughjackman" />
+</androidx.constraintlayout.widget.ConstraintLayout>

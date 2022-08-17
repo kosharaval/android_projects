@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Words Game</string>
+    <string name="add_word">Add a word</string>
+    <string name="hint_word">Word to add</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Word not saved</string>
+</resources>

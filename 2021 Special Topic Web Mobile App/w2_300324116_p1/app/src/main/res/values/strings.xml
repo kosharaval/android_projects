@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">w2_300324116_p1</string>
+    <string name="textViewTitle">Enter Title</string>
+    <string name="textViewArtist">Enter Artist</string>
+    <string name="textViewPlayTime">Enter Play Time</string>
+    <string name="buttonAdd">Add Record</string>
+    <string name="textViewListTile">Record List</string>
+    <string name="buttonSort">Sort Record List</string>
+    <string name="radioButtonTitle">Title</string>
+    <string name="radioButtonArtist">Artist</string>
+    <string name="radioButtonPlayTime">Play Time</string>
+    <string name="textViewAddRecord">Add New Record</string>
+</resources>

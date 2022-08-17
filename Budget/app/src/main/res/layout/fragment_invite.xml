@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal">
+
+<!--    <EditText-->
+<!--        android:id="@+id/edFstName"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginTop="8dp"-->
+<!--        android:ems="10"-->
+<!--        android:hint="@string/edFstName"-->
+<!--        android:inputType="textPersonName" />-->
+
+<!--    <EditText-->
+<!--        android:id="@+id/edLstName"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginTop="8dp"-->
+<!--        android:ems="10"-->
+<!--        android:hint="@string/edLstName"-->
+<!--        android:inputType="textPersonName" />-->
+
+<!--    <EditText-->
+<!--        android:id="@+id/edEmail"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginTop="8dp"-->
+<!--        android:ems="10"-->
+<!--        android:hint="@string/edEmail"-->
+<!--        android:inputType="textEmailAddress" />-->
+
+    <TextView
+        android:id="@+id/txtlink"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/txtlink" />
+
+    <Button
+        android:id="@+id/btnInvite"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/button_rounded"
+        android:text="@string/btnInvite" />
+
+</LinearLayout>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KoshaR_3375MT</string>
+    <string name="title">Kosha Raval - 300324116 - 3375MT </string>
+    <string name="imgDescription">InfoImage</string>
+
+    <string name="imgCheckBox">ImgViewDoneVsNotDone</string>
+    <string name="imgStar">HighPriority</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JapneetS_3175FinalPractice</string>
+    <string name="textViewTitle">
+        Japneet Singh - 300323547 - 3175 Final
+        \n(Full Name - Student Id - 3175 Final)
+    </string>
+    <string name="buttonShowCart">Show Cart</string>
+    <string name="imageDesc">Image View Show List</string>
+</resources>

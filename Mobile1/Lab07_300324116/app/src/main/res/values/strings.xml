@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab07_300324116</string>
+    <string name="imgLarge">Dog Adoption Image</string>
+    <string name="imgSmall">Dog Adoption Thumbnails</string>
+</resources>

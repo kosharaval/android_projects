@@ -1,0 +1,10 @@
+[{"id":1,"Companies":[{"dept":"Engineering"}]},
+{"id":2,"Companies":[{"dept":"Support"},{"dept":"Marketing"},{"dept":"Services"},{"dept":"Support"},{"dept":"Services"}]},
+{"id":3,"Companies":[{"dept":"Business Development"},{"dept":"Human Resources"},{"dept":"Research and Development"},{"dept":"Services"}]},
+{"id":4,"Companies":[{"dept":"Business Development"},{"dept":"Research and Development"},{"dept":"Engineering"},{"dept":"Research and Development"}]},
+{"id":5,"Companies":[{"dept":"Marketing"},{"dept":"Research and Development"},{"dept":"Engineering"}]},
+{"id":6,"Companies":[{"dept":"Research and Development"},{"dept":"Marketing"},{"dept":"Accounting"}]},
+{"id":7,"Companies":[{"dept":"Accounting"}]},
+{"id":8,"Companies":[{"dept":"Services"},{"dept":"Marketing"},{"dept":"Legal"}]},
+{"id":9,"Companies":[{"dept":"Support"},{"dept":"Support"},{"dept":"Legal"}]},
+{"id":10,"Companies":[{"dept":"Engineering"}]}]

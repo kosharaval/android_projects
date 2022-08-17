@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AdoptDem</string>
+    <string name="txtTitle">Adoption Demo</string>
+    <string name="imgDesc">Image Desc</string>
+</resources>
